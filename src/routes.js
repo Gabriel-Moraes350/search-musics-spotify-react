@@ -1,5 +1,10 @@
 import React from 'react';
-import { Route, Switch, BrowserRouter as Router } from 'react-router-dom';
+import {
+  Route,
+  Switch,
+  Redirect,
+  BrowserRouter as Router,
+} from 'react-router-dom';
 import Home from './pages/Home/Home';
 import ResultaSearch from './pages/ResultSearch/ResultSearch';
 import Layout from './components/Layout/Layout';
@@ -17,6 +22,7 @@ export default function Routes() {
           <Route path="/favorites" component={Favorite} />
           <Route path="/album/:id" component={AlbumDetail} />
           <Route path="/artist/:id" component={ArtistDetail} />
+          <Redirect to="/" />
         </Layout>
       </Switch>
     </Router>
