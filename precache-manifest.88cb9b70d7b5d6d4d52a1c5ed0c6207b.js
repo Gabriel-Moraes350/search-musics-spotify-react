@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "9fca85a8ed3bb93196d0d36cf71ac049",
+    "revision": "ed7e080f3885e0211eeec82dcdf6f11b",
     "url": "/search-musics-spotify-react/index.html"
   },
   {
