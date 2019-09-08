@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
@@ -66,3 +67,7 @@ This section has moved here: https://facebook.github.io/create-react-app/docs/de
 ### `npm run build` fails to minify
 
 This section has moved here: https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify
+=======
+# search-musics-spotify-react
+React Project consuming Spotify API, to search for tracks, albums and artists. You can favorite these items and see your favorite items
+>>>>>>> 2c9b9a4b0e4fff7c8990de0518dff006d3760c27
