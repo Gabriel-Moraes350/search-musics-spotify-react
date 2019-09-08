@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "49b0bedc2bce3915825c2f0fa3fe081f",
+    "revision": "e70d9084c4abdfd74c49501e444d4cc7",
     "url": "https://gabriel-moraes350.github.io/search-musics-spotify-react/index.html"
   },
   {
@@ -12,8 +12,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "https://gabriel-moraes350.github.io/search-musics-spotify-react/static/js/2.6b8b9c0a.chunk.js"
   },
   {
-    "revision": "a91fb23c52b0783c2ed2",
-    "url": "https://gabriel-moraes350.github.io/search-musics-spotify-react/static/js/main.49e86039.chunk.js"
+    "revision": "7e602bfbbfe69469468e",
+    "url": "https://gabriel-moraes350.github.io/search-musics-spotify-react/static/js/main.5e661f21.chunk.js"
   },
   {
     "revision": "d0935ea1b7e75f51bbcd",
