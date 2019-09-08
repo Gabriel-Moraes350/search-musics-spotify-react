@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "3682e12243aa93c1285c040caa0fe337",
+    "revision": "05e187443edc226e9e9a0f9d6e6aeb31",
     "url": "/search-musics-spotify-react/index.html"
   },
   {
@@ -12,8 +12,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/search-musics-spotify-react/static/js/2.4e335508.chunk.js"
   },
   {
-    "revision": "f96c5be73a70f206fbab",
-    "url": "/search-musics-spotify-react/static/js/main.d0e47bd7.chunk.js"
+    "revision": "a0425be4205c0a7bc5cf",
+    "url": "/search-musics-spotify-react/static/js/main.94a53d3d.chunk.js"
   },
   {
     "revision": "e1aaa19a97a29acaf53c",
