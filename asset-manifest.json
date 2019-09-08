@@ -1,18 +1,18 @@
 {
   "files": {
-    "main.js": "/search-musics-spotify-react/static/js/main.d7497648.chunk.js",
-    "main.js.map": "/search-musics-spotify-react/static/js/main.d7497648.chunk.js.map",
-    "runtime~main.js": "/search-musics-spotify-react/static/js/runtime~main.b1ad286d.js",
-    "runtime~main.js.map": "/search-musics-spotify-react/static/js/runtime~main.b1ad286d.js.map",
-    "static/css/2.b1119605.chunk.css": "/search-musics-spotify-react/static/css/2.b1119605.chunk.css",
-    "static/js/2.cd9b3bdf.chunk.js": "/search-musics-spotify-react/static/js/2.cd9b3bdf.chunk.js",
-    "static/js/2.cd9b3bdf.chunk.js.map": "/search-musics-spotify-react/static/js/2.cd9b3bdf.chunk.js.map",
-    "index.html": "/search-musics-spotify-react/index.html",
-    "precache-manifest.e728a30130281ed8f94d533a056a934b.js": "/search-musics-spotify-react/precache-manifest.e728a30130281ed8f94d533a056a934b.js",
-    "service-worker.js": "/search-musics-spotify-react/service-worker.js",
-    "static/css/2.b1119605.chunk.css.map": "/search-musics-spotify-react/static/css/2.b1119605.chunk.css.map",
-    "static/media/home.png": "/search-musics-spotify-react/static/media/home.fb0f946b.png",
-    "static/media/logo.png": "/search-musics-spotify-react/static/media/logo.9303e241.png",
-    "static/media/music.png": "/search-musics-spotify-react/static/media/music.32656c2e.png"
+    "main.js": "/static/js/main.b5cf1dd3.chunk.js",
+    "main.js.map": "/static/js/main.b5cf1dd3.chunk.js.map",
+    "runtime~main.js": "/static/js/runtime~main.e12b1a88.js",
+    "runtime~main.js.map": "/static/js/runtime~main.e12b1a88.js.map",
+    "static/css/2.b1119605.chunk.css": "/static/css/2.b1119605.chunk.css",
+    "static/js/2.20e1542f.chunk.js": "/static/js/2.20e1542f.chunk.js",
+    "static/js/2.20e1542f.chunk.js.map": "/static/js/2.20e1542f.chunk.js.map",
+    "index.html": "/index.html",
+    "precache-manifest.c068fc4efc1e961a4b2350a6bee2a21d.js": "/precache-manifest.c068fc4efc1e961a4b2350a6bee2a21d.js",
+    "service-worker.js": "/service-worker.js",
+    "static/css/2.b1119605.chunk.css.map": "/static/css/2.b1119605.chunk.css.map",
+    "static/media/home.png": "/static/media/home.fb0f946b.png",
+    "static/media/logo.png": "/static/media/logo.9303e241.png",
+    "static/media/music.png": "/static/media/music.32656c2e.png"
   }
 }
