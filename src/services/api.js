@@ -27,7 +27,7 @@ api.interceptors.response.use(
     ) {
       localStorage.setItem('access_token', '');
       setTimeout(() => {
-        return (window.location = '/');
+        return (window.location = process.env.PUBLIC_URL);
       }, 2000);
       toast.error('Access token expired, please Log again!');
     } else {

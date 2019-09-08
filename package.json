@@ -2,7 +2,7 @@
   "name": "loves-music",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://Gabriel-Moraes350.github.io/",
+  "homepage": "https://Gabriel-Moraes350.github.io/search-musics-spotify-react/",
   "dependencies": {
     "@material-ui/core": "^4.4.0",
     "axios": "^0.19.0",
